@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @KevinAlavik
-- 👀 I’m a web, python, c developer
-- 🌱 I’m currently learning **PHP** Web development
-- 📫 How to reach me: mail: kevin@alavk.se discord: ComputerNerd#0001
+<h2> Hi, I'm Kevin Alavik im a young developer, i live in sweden i started coding when covid started and im still going!</h2>
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<p><em>Currently developing my own 3rd party app store </em></p> 
+</em></p>
 
-**Im currently developing a 3rd Party App Store for iOS (https://www.upstore.tk)**
+[![Twitter: UseUpStore](https://img.shields.io/twitter/follow/UseUpStore?style=social)](https://twitter.com/UseUpStore)
+
+[![GitHub KevinAlavik](https://img.shields.io/github/followers/KevinAlavik?label=follow&style=social)](https://github.com/KevinAlavik)
+
+
+### Other info about me:  
+
+```javascript
+const kevin = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, C],
+  tools: [Node, React, Electron, Docker, Stackoverflow],
+  challenge: "Making my own Programming language"
+}
+```
+
+<em><b>Im trying to make all of my friends intrested in coding </b> But they are boring <b></b> :)</em>
+
+---
