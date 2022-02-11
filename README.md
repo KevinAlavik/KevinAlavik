@@ -22,3 +22,15 @@ const kevin = {
 <em><b>Im trying to make all of my friends intrested in coding </b> But they are boring <b></b> :)</em>
 
 ---
+
+### 📊 Stats
+
+[![Twitter: Hydrogen](https://img.shields.io/twitter/follow/hydrogen_store?style=social)](https://twitter.com/hydrogen_store)
+
+[![GitHub KevinAlavik](https://img.shields.io/github/followers/KevinAlavik?label=follow&style=social)](https://github.com/KevinAlavik)
+
+![stats1](https://github-readme-stats.vercel.app/api?username=KevinAlavik&theme=radical&show_icons=true&count_private=true)
+
+![Stats2](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinAlavik&theme=solarized_dark)
+![Stats3](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinAlavik&theme=solarized_dark)
+![Stats4](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinAlavik&theme=solarized_dark)
