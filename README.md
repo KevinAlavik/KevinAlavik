@@ -13,9 +13,9 @@
 ```javascript
 const kevin = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, C],
+  code: [Javascript, HTML, CSS, Python, C, Go, C#, PHP, TypeScript],
   tools: [Node, React, Electron, Docker, Stackoverflow],
-  challenge: "Making my own Programming language"
+  challenge: "Give me one!"
 }
 ```
 
