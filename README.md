@@ -3,7 +3,7 @@
 <p><em>Currently developing my own 3rd party app store </em></p> 
 </em></p>
 
-[![Twitter: UseUpStore](https://img.shields.io/twitter/follow/UseUpStore?style=social)](https://twitter.com/hydrogen_store)
+[![Twitter: Hydrogen](https://img.shields.io/twitter/follow/hydrogen_store?style=social)](https://twitter.com/hydrogen_store)
 
 [![GitHub KevinAlavik](https://img.shields.io/github/followers/KevinAlavik?label=follow&style=social)](https://github.com/KevinAlavik)
 
