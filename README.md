@@ -13,8 +13,8 @@
 ```javascript
 const kevin = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, C, Go, C#, PHP, TypeScript],
-  tools: [Node, React, Electron, Docker, Stackoverflow],
+  code: ["JavaScript", "HTML", "CSS", "Python", "C", "Go", "C#", "PHP", "TypeScript", "and more"],
+  tools: ["Node", "React", "Electron", "Docker", "Stack Overflow"],
   challenge: "Give me one!"
 }
 ```
