@@ -15,6 +15,8 @@ const kevin = {
   pronouns: "he" | "him",
   code: ["JavaScript", "HTML", "CSS", "Python", "C", "Go", "C#", "PHP", "TypeScript", "and more"],
   tools: ["Node", "React", "Electron", "Docker", "Stack Overflow"],
+  projects: ["Hydrogen Store", "OS Break", "Hydrogen-v4", "other"],
+  teams:  ["Hydrogen"],
   challenge: "Give me one!"
 }
 ```
