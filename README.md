@@ -1,6 +1,7 @@
-<h2> Hi, I'm Kevin Alavik im a young developer, i live in sweden i started coding when covid started and im still going!</h2>
+# Kevin Alavik
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 <p><em>Currently developing my own 3rd party app store </em></p> 
+<p><em>Currently been programming since 2020 </em></p> 
 </em></p>
 
 [![Twitter: Hydrogen](https://img.shields.io/twitter/follow/hydrogen_store?style=social)](https://twitter.com/hydrogen_store)
