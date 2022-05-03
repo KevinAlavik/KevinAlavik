@@ -13,7 +13,7 @@
 ```javascript
 const kevin = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "HTML", "CSS", "Python", "C", "Go", "C#", "PHP", "TypeScript", "and more"],
+  code: ["JavaScript", "HTML", "CSS", "Python", "C", "GoLang", "C#", "PHP", "TypeScript", "Swift", "Java"],
   tools: ["Node", "React", "Electron", "Docker", "Stack Overflow"],
   projects: ["Hydrogen Store", "OS Break", "Hydrogen-v4", "other"],
   teams:  ["Hydrogen"],
