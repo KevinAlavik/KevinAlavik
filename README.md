@@ -1,30 +1,6 @@
 # Kevin Alavik
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em>Currently developing my own 3rd party app store </em></p> 
-<p><em>Currently been programming since 2020 </em></p> 
-</em></p>
 
-[![Twitter: Hydrogen](https://img.shields.io/twitter/follow/hydrogen_store?style=social)](https://twitter.com/hydrogen_store)
-
-[![GitHub KevinAlavik](https://img.shields.io/github/followers/KevinAlavik?label=follow&style=social)](https://github.com/KevinAlavik)
-
-
-### Other info about me:  
-
-```javascript
-const kevin = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "HTML", "CSS", "Python", "C", "GoLang", "C#", "PHP", "TypeScript", "Swift", "Java"],
-  tools: ["Node", "React", "Electron", "Docker", "Stack Overflow"],
-  projects: ["Hydrogen Store", "OS Break", "Hydrogen-v4", "other"],
-  teams:  ["Hydrogen"],
-  challenge: "Give me one!"
-}
-```
-
-<em><b>Im trying to make all of my friends intrested in coding </b> But they are boring <b></b> :)</em>
-
----
+Hi im Kevin im a developer that can program in many languages!
 
 ### 📊 Stats
 
