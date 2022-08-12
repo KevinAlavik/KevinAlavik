@@ -4,7 +4,7 @@ Hi im Kevin im a developer that can program in many languages!
 
 ### 📊 Stats
 
-[![Twitter: Hydrogen](https://img.shields.io/twitter/follow/hydrogen_store?style=social)](https://twitter.com/hydrogen_store)
+[![Twitter: KevinAlavik](https://img.shields.io/twitter/follow/hydrogen_store?style=social)](https://twitter.com/kevin_alavik)
 
 [![GitHub KevinAlavik](https://img.shields.io/github/followers/KevinAlavik?label=follow&style=social)](https://github.com/KevinAlavik)
 
