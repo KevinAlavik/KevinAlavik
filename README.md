@@ -1,10 +1,9 @@
 # Kevin Alavik
 
-Hi im Kevin im a developer that can program in many languages!
+No i cant program
 
 ### 📊 Stats
 
-[![Twitter: KevinAlavik](https://img.shields.io/twitter/follow/hydrogen_store?style=social)](https://twitter.com/kevin_alavik)
 
 [![GitHub KevinAlavik](https://img.shields.io/github/followers/KevinAlavik?label=follow&style=social)](https://github.com/KevinAlavik)
 
