@@ -24,7 +24,8 @@ https://discord.gg/ucfbUrdFvd
 
 ## My Devices
 
-**Phones:** iPhone 8 Plus, iPhone 6s (Jailbroken with unc0ver)
+**Phones:** iPhone XR (iOS 16.3.1), iPhone XR (Broken, iOS Unknown), iPhone 8 Plus (iOS 16.1.1), iPhone 6s (iOS 11, Jailbroken with unc0ver)
 
-**Computers:** MacBook Pro 13″ (macOS 11.7.3)
+**Computers:** MacBook Pro 13″ (macOS 11.7.3), Some old ass work computer (Windows 10)
 
+**Saving for a M1 Mac Mini**
