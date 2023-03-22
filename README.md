@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kevinalavik&label=Profile%20views&color=0e75b6&style=flat" alt="kevinalavik" /> </p>
 <p align="center"> <a href="https://twitter.com/pufferisadev" target="blank"><img src="https://img.shields.io/twitter/follow/pufferisadev?color=inactive&label=Follow%20me%20on%20twitter%21&style=social" alt="pufferisadev" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinalavik&column=8&theme=onedark&no-frame=true" alt="kevinalavik" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinalavik&theme=onedark" alt="kevinalavik" /></a> </p>
 
 <br>
 <span align="center"> 
