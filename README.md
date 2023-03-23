@@ -21,7 +21,7 @@
 
   📫 How to reach me **kevin.alavik@icloud.com and kevin@alavik.se**
 
-  ⚡ Fun fact **I think i suck at programming (which i prob tho)**
+  ⚡ Fun fact **I didnt even know how to code before i announced i started making an programmk language, (2019)**
 
   📱 Devices **iPhone XR (iOS 16.3.1), iPhone 8 Plus (iOS 16.1.1), iPhone XR (iOS Unknown), iPhone 6s (iOS 11 Jailbroken with unc0ver), MacBook Pro 2017, Windows 10 HP**
 </span>
