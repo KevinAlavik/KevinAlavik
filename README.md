@@ -41,7 +41,7 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pufferisadev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pufferisadev" /></a><a href="https://ko-fi.com/pufferisadev"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pufferisadev" /></a></p><br>
 <h3 align="center">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinalavik&show_icons=true&locale=en&layout=compact&theme=onedark" alt="kevinalavik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinalavik&show_icons=true&locale=en&layout=compact&theme=onedark&langs_count=10" alt="kevinalavik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinalavik&show_icons=true&locale=en&theme=onedark" alt="kevinalavik" /></p>
 
