@@ -9,7 +9,7 @@
 <br>
 <span align="center"> 
   
-  🔭 I’m currently working on <a href="https://github.com/kevinalavik/scylla-ios">Scylla</a>
+  🔭 I’m currently working on <a href="https://github.com/kevinalavik/scylla-ios">Scylla</a>, [Chrome Pie](https://github.com/kevinalavik/chrome-pie), [repojs](https://github.com/kevinalavik/repojs)
 
   🌱 I’m currently learning **Backend developement in Swift**
 
