@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">Im a fullstack developer from Sweden</h3>
-#### Currently up for jobs
+
+##### Currently up for jobs
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kevinalavik&label=Profile%20views&color=0e75b6&style=flat" alt="kevinalavik" /> </p>
 <p align="center"> <a href="https://twitter.com/pufferisadev" target="blank"><img src="https://img.shields.io/twitter/follow/pufferisadev?color=inactive&label=Follow%20me%20on%20twitter%21&style=social" alt="pufferisadev" /></a> </p>
