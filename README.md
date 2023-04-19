@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/transparent-Qs5FYEsfQlclJ1FtWV" width="100"/>
+  <img src="https://tenor.com/3Z5D.gif" width="100"/>
 </div>
