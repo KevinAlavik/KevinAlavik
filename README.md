@@ -1,1 +1,1 @@
-<center><h1>hey there im kevin</h1></center>
+<h1 align="centrr">hey there im kevin</h1>
