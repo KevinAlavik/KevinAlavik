@@ -1,6 +1,9 @@
 # Hi there 👋
 
-I'm an iPhone hacker nerd and low-level programming enthusiast. Welcome to my GitHub profile!
+I am
+- An iPhone Hacker
+- Linux nerd
+- nerd
 
 ## My GitHub Stats
 
