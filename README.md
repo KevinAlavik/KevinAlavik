@@ -17,3 +17,4 @@ _start:
     xor ebx, ebx
     int 0x80
 ```
+![](https://api.githubtrends.io/user/svg/KevinAlavik/langs?time_range=six_months&include_private=True&theme=dark)
