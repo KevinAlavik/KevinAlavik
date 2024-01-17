@@ -1,20 +1,3 @@
-```asm
-section .data
-    msg db 'Hello my name is Kevin Alavik', 0x0a
-    len equ $ - msg
+bippity boppity boo i like you
 
-section .text
-    global _start
-
-_start:
-    mov eax, 4
-    mov ebx, 1
-    mov ecx, msg
-    mov edx, len
-    int 0x80
-
-    mov eax, 1
-    xor ebx, ebx
-    int 0x80
-```
 ![](https://api.githubtrends.io/user/svg/KevinAlavik/langs?time_range=six_months&include_private=True&theme=dark)
