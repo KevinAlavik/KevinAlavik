@@ -11,4 +11,5 @@ Mail me at:
 - <alavik@disroot.org>
 
 Discord: kevinalavik
+
 Matrix: @fwpirate:matrix.org
