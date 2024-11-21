@@ -14,7 +14,6 @@ Discord: kevinalavik
 
 Matrix: @fwpirate:matrix.org
 
-### Stats
+### Useless Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinalavik&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalavik&theme=dark&layout=compact)
