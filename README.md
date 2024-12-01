@@ -14,6 +14,10 @@ Discord: kevinalavik
 
 Matrix: @fwpirate:matrix.org
 
+### Notable Projects
+
+- Piraterna: https://piraterna.org (site under construction)
+
 ### Useless Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalavik&theme=dark&layout=compact)
